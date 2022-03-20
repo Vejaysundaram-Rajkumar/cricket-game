@@ -1,3 +1,4 @@
+#Cricket Game
 import random
 opt=["batting","bowling"]
 numbers=[]
